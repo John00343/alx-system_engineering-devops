@@ -1,0 +1,2 @@
+#!/bin/bash
+chowm -h vuncent:staff _hello
